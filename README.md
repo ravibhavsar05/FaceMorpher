@@ -1,6 +1,7 @@
 # FaceMorpher
 
-**Technology** : React Native
+**Technology** : React Native with Type Script
+
 **SDK** : Banuba
 
 This is the demo code for **Face Morphing** where we can set some size variation on chinline, nose and eyes. 
