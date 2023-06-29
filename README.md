@@ -1,6 +1,6 @@
 # FaceMorpher
 
-**Technology** : React Native with Type Script
+**Technology** : React Native - Java Script, Type Script
 
 **SDK** : Banuba
 
